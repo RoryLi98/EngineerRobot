@@ -1,1 +1,3 @@
 # EngineerRobot
+
+Qmake Setting：
