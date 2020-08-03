@@ -1,4 +1,5 @@
-# EngineerRobot
+# EngineerRobot 
+<div align=center><img src="https://github.com/LinkLiar/ImageStorage/blob/master/SchoolBadge.png" width="200" height="265" /></div>
 
 Qmake Setting：
 
@@ -9,4 +10,4 @@ Qmake Setting：
     LIBS += `pkg-config opencv --cflags --libs`
 
 
-.<img src="https://github.com/LinkLiar/ImageStorage/blob/master/SchoolBadge.png" width="200" height="265" />
+
