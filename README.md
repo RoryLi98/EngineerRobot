@@ -8,4 +8,5 @@ Qmake Setting：
                  
     LIBS += `pkg-config opencv --cflags --libs`
 
-![SchoolBadge](https://github.com/LinkLiar/ImageStorage/blob/master/SchoolBadge.png)
+
+.<img src="https://github.com/LinkLiar/ImageStorage/blob/master/SchoolBadge.png" width="200" height="265" />
