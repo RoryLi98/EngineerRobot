@@ -67,8 +67,8 @@ int main()
         Mat element = getStructuringElement(MORPH_ELLIPSE, Size(s1,s2));
 
         dstImage = gray.clone();
-        int row = dstImage.rows;  //行
-        int col = dstImage.cols;  //列
+        int row = dstImage.rows;    //行
+        int col = dstImage.cols;       //列
 
         for(int x = 0;x<row;x++)
         {
@@ -137,6 +137,7 @@ int main()
         char c = (char)waitKey(0);
         if(c == 27 )break;
     }
+
     cap.release();
     destroyAllWindows();
     return 0;
