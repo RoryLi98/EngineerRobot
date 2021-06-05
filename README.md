@@ -1,4 +1,4 @@
-# EngineerRobot (工程机器人决定停用视觉，暂停更新)
+# EngineerRobot (工程机器人决定不用视觉，暂停更新)
 
 <div align=center><img src="https://github.com/LinkLiar/ImageStorage/blob/master/SchoolBadge.png" width="200" height="265"/><img src="https://github.com/LinkLiar/ImageStorage/blob/master/CollegeBadge.png" width="200" height="265"/></div>
 
