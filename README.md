@@ -17,7 +17,7 @@ RGB-D Camera: Orbbec Astra Pro
                    /usr/include/openni2
                  
     LIBS += `pkg-config opencv --cflags --libs`
-    LIBS += /home/link/NewDepthTest/DepthTest/libOpenNI2.so
+    LIBS += /home/link/EngineerRobot/libOpenNI2.so
 
 <div align=center><img src="https://github.com/LinkLiar/ImageStorage/blob/master/%E5%B7%A5%E7%A8%8B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B0%83%E8%AF%95.png"/></div>
 
